@@ -2,16 +2,16 @@ FTP Server Setup Script
 
 This script installs and configures the vsftpd FTP server on an Ubuntu system.
 
-How to Run the Script
+How to Run the Script:
+
 Clone the Repository or Download the Script: Ensure you have the script file named setup-ftp.sh.
 
 Make the Script Executable: Run the following command to give execute permissions to the script:
 
-sh
-Copy code
+
 chmod +x setup-ftp.sh
+
 Run the Script: Execute the script with sudo privileges:
 
-sh
-Copy code
+
 sudo ./setup-ftp.sh
