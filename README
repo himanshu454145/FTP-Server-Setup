@@ -1,4 +1,5 @@
 FTP Server Setup Script
+
 This script installs and configures the vsftpd FTP server on an Ubuntu system.
 
 How to Run the Script
